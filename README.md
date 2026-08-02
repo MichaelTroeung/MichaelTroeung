@@ -1,5 +1,13 @@
 ## Hello
 
+Hi, my name is Michael. Welcome to my GitHub page! <br>
+Silicon Design Engineer II @ AMD 
+
+Please shoot me a message on my LinkedIn if you want to chat! :D <br>
+
+Some th-“ings” I do: Drawing & Painting + Running & Swimming + Engineering & Designing 
+
+
 <!--
 **MichaelTroeung/MichaelTroeung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
