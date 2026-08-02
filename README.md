@@ -1,4 +1,4 @@
-## Hello
+## About Me
 
 Hi, my name is Michael. Welcome to my GitHub page! <br>
 Silicon Design Engineer II @ AMD 
